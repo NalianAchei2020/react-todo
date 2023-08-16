@@ -6,8 +6,6 @@ const Home = () => {
   const form = useForm();
   const {
     register,
-    control,
-    handleSubmit,
     formState: { errors },
   } = form;
   return (
