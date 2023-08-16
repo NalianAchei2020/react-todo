@@ -16,7 +16,7 @@ const Home = () => {
         <Stack spacing={2} width={400}>
           <TextField
             label="Enter task"
-            variant="outline"
+            variant="outlined"
             type="text"
             {...register('task')}
           />
