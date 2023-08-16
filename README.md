@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h1><b>Math_Magicians</b></h1>
+  <h1><b>React-todo</b></h1>
 
 </div>
 
@@ -29,11 +29,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math_Magicians <a name="about-project"></a>
+# 📖 React-todo <a name="about-project"></a>
 
-"Math_Magicians" is a calculator project that help users to calculate when solving mathematical problems.
+"React-todo" is a react todo app.
 
-_[Math_Magicians]_ is React project
+_[React-todo]_ is React project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,7 +44,7 @@ _[Math_Magicians]_ is React project
 
 ### Key Features <a name="key-features"></a>
 
-- _Math_Magicians_
+- _React-todo_
 
 ## 🚀 Live Demo
 
